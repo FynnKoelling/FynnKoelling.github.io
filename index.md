@@ -7,3 +7,5 @@ Er macht Spider-Man zu einem Avenger und stirbt als er die Infinity Steine benut
 * Milliardär
 * Playboy
 * Philanthrop
+>Wie Tony Stark sagt:
+> J.A.R.V.I.S, manchmal muss man rennen, bevor man laufen kann.
